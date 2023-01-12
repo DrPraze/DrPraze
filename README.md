@@ -21,7 +21,7 @@
 <div align="center"> 
   
 About Me! 😎
-🏫: I'm a 16 years old 
+🏫: I'm a 16 year old 
 
 🔭: I’m currently working on COOL projects.
 
@@ -35,12 +35,13 @@ About Me! 😎
 </div>
 
 <br/>
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrPraze&theme=vue-dark)](https://git.io/streak-stats)
-
+</div>
 
 <br/>
-
+My Portfolio: drpraze.github.io
+<br/>
 <h1 align="center">Get In Touch 📪</h1>
 <div align="center">
   
