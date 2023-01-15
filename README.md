@@ -36,7 +36,7 @@ About Me! 😎
 
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrPraze&theme=vue-dark)](https://git.io/streak-stats)
-</div>
+
 
 <br/>
 My Portfolio: drpraze.github.io
