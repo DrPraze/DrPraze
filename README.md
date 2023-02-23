@@ -14,6 +14,7 @@
   ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
   ![skills](https://img.shields.io/badge/-FLASK-FF0000?style=for-the-badge&logo=flask&logoColor=white&color=darkgreen)
   ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=white&color=green)
+  I'll add more of my skills when I'm.free
   
 </div>
 
@@ -21,13 +22,13 @@
 <div align="center"> 
   
 About Me! 😎
-🏫: I'm a 16 year old 
+🏫: I'm a teenager
 
 🔭: I’m currently working on COOL projects.
 
 🌱: I’m currently learning new technologies
 
-💬: Ask me about Web scraping, NodeJS, Python, databases, API, data science,  and anything about web development.
+💬: Ask me about Web scraping, NodeJS, Python, databases, API, data science, AI, web development and anything about technology.
 
 😄 Pronouns: He/His
   
