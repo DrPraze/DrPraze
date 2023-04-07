@@ -22,13 +22,13 @@
 <div align="center"> 
   
 About Me! 😎
-🏫: I'm a teenager
+🏫: I'm a polymath
 
 🔭: I’m currently working on COOL projects.
 
 🌱: I’m currently learning new technologies
 
-💬: Ask me about Web scraping, NodeJS, Python, databases, API, data science, AI, web development and anything about technology.
+💬: Ask me anything about technology.
 
 😄 Pronouns: He/His
   
@@ -37,7 +37,7 @@ About Me! 😎
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drpraze&theme=vue-dark)](https://git.io/streak-stats)
 
 <br/>
-My Portfolio: drpraze.github.io
+My Portfolio: https://drpraze.github.io
 <br/>
 <h1 align="center">Get In Touch 📪</h1>
 <div align="center">
