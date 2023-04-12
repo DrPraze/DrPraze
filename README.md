@@ -14,6 +14,7 @@
   ![skills](https://img.shields.io/badge/-EXPRESS_JS-FF0000?style=for-the-badge&logo=express&logoColor=white&color=grey)
   ![skills](https://img.shields.io/badge/-FLASK-FF0000?style=for-the-badge&logo=flask&logoColor=white&color=darkgreen)
   ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=white&color=green)
+  ![skills](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white&color=blue)
   I'll add more of my skills when I'm.free
   
 </div>
