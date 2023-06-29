@@ -15,7 +15,7 @@
   ![skills](https://img.shields.io/badge/-FLASK-FF0000?style=for-the-badge&logo=flask&logoColor=white&color=darkgreen)
   ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=white&color=green)
   ![skills](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white&color=blue)
-  ![skills](https://img.shields.io/badge/-ANGULAR-000000?style=for-the-badge&logo=figma&logoColor=white&color=red)
+  ![skills](https://img.shields.io/badge/-ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white&color=red)
   I'll add more of my skills when I'm.free
   
 </div>
