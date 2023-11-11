@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋 I'm Praise James</h1>
-<h4 align="center">FULL STACK DEVELOPER | SOFTWARE ENGINEER</h4>
-<h6 align="center">CREATIVE and INNOVATIVE deadline-driven Developer with 3+ years of experience designing and developing user-centered technological solutions in form of software.</h6>
+<h4 align="center">Technocrat • Tech Consultant • Software Engineer • Writer</h4>
+<h6 align="center">I Build Tech Solutions to help people and businesses Thrive in the Chaos. I write it, I meme it, I have fun with it</h6>
 
 <div align="center">
   
@@ -16,6 +16,9 @@
   ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=white&color=green)
   ![skills](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white&color=blue)
   ![skills](https://img.shields.io/badge/-ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white&color=red)
+  ![skills](https://img.shields.io/badge/-JWT-000000?style-for-the-badge&logo=jwt&logoColor=white&color=green)
+  ![skills](https://img.shields.io/badge/-CANVA-000000?style-for-the-badge&logo=canva&logoColor=white&color=lightblue)
+  
   I'll add more of my skills when I'm free
   
 </div>
