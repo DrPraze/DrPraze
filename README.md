@@ -16,9 +16,9 @@
   ![skills](https://img.shields.io/badge/PYQT5-000000?style=for-the-badge&logo=qt&logoColor=white&color=green)
   ![skills](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma&logoColor=white&color=blue)
   ![skills](https://img.shields.io/badge/-ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white&color=red)
-  ![skills](https://img.shields.io/badge/-JWT-000000?style-for-the-badge&logo=jwt&logoColor=white&color=green)
-  ![skills](https://img.shields.io/badge/-CANVA-000000?style-for-the-badge&logo=canva&logoColor=white&color=lightblue)
-  
+  ![skills](https://img.shields.io/badge/-MARKDOWN-000000?style-for-the-badge&logo=markdown&logoColor=white&color=black)
+  ![skills](https://img.shields.io/badge/-CANVA-000000?style-for-the-badge&logo=canva&logoColor=white&color=cyan)
+  ![skills](https://img.shields.io/badge/-TRELLO-000000?style-for-the-badge&logo=trello&logoColor=white&color=blue)
   I'll add more of my skills when I'm free
   
 </div>
